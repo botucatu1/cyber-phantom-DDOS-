@@ -1,3 +1,6 @@
+#HAAII!!! THIS IS MY CODE :3333333
+#THIS IS A DDOS OKAI??? :333
+
 import tkinter as tk
 from tkinter import messagebox
 import requests
